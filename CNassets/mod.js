@@ -62,6 +62,8 @@ module.exports = {
         'assets://storyfiles/hs2/00158_2.gif': './assets/2058.jpg',
         'assets://storyfiles/hs2/00249_2.gif': './assets/2149-2.png',
         'assets://storyfiles/hs2/00267.gif': './assets/2167.jpg',
+        'assets://storyfiles/hs2/00630.gif': './assets/00630_ct.gif',
+        'assets://storyfiles/hs2/00629_2.gif': './assets/00629_2_ct.gif',
     },
 
 }
