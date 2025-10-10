@@ -13141,7 +13141,9 @@
     <p class="no-indent">你跳转回了正典时间线。时隔这么久，你已经几乎忘了回溯是什么感觉。扑面而来的空气中弥漫着毋庸置疑的……你该怎么形容它？相关性？正统性？真是有趣，你在脱离正典之前从未以这种角度进行过思考。</p>
     <p class="no-indent">即使Rose的提示已经足够精确，你还是花了一点时间才认出自己身处何地。明艳、花哨，充满垮掉的青春的腐朽气息。这是金色战船上的旧客厅，你在那里花了三年在奇怪的兽人言情戏剧中纠缠，同时学会了放下你对一切曾经珍视的宝贝的爱。漫长的、无聊的三个年头。三个准确而言甚至根本没有实际发生的年头，如果你现在去回顾的话。你所拥有的回溯之力能够直接带你回到这里，你应该心存侥幸。</p>
     <p class="no-indent">你没有时间沉浸在被星球、纠缠的好朋友和前卫哑剧激发的怀旧感伤中。冰箱砰地一声打开了，Aranea和Gamzee从里面蹦了出来。Gamzee大声地叭噗着，他的遮阴布不祥地轻轻颤动。Aranea努力站了起来，看起来她对自己的成果相当满意。但接下来她看到了你，她困惑得目瞪口呆。</p>
-    <p class="no-indent">ARANEA: 你来这里做什么？！</p>
+        <div class="chat type-rg type-hs-small--md">
+    <p class="vriska">ARANEA: 你来这里做什么？！</p>
+    </div>
     <p class="Command">&gt; Rose非常清楚下一步该怎么做。</p>
     <p class="no-indent">你握紧拳头，在这样做的同时下意识地打了个哆嗦并移开了目光。无论你已经在一颗绝对性别平等的星球上生活了多少年，你依然不觉得这样做合乎正义。但你还是狠狠地揍了Aranea一拳，和上次你打飞另一个倒霉的Serket时一样，你又一次严重低估了你的力量。她被你打得向后飞去，重重地砸在沙发上，在一大堆扑偶仔中陷入昏迷。你走上前去拉起她的手腕，摘下她手指上的戒指，塞进了自己的口袋。</p>
     <p class="Command">&gt; 你是不是忘了点什么？</p>
@@ -15693,48 +15695,40 @@
     <p class="dave">DAVE: 喂三个john，你们三个john到底在这里搞啥鬼</p>
     </div>
     <p class="no-indent">一个合理的问题，按照逻辑，问题指向的一定是最大的、见识最广的那个John。尽管如此，还是更年轻的一个John抢先给出了回答。</p>
-    <p class="no-indent">(JOHN 1): 呃。</p>
-    <p class="no-indent">(JOHN 1): 我不知道。</p>
-    <p class="no-indent">JOHN 3: john，别担心，我来处理。</p>
-    <div class="chat type-rg type-hs-small--md">
+        <div class="chat type-rg type-hs-small--md">
+    <p class="john">(JOHN 1): 呃。</p>
+    <p class="john">(JOHN 1): 我不知道。</p>
+    <p class="john">JOHN 3: john，别担心，我来处理。</p>
     <p class="dave">DAVE: 嘿john们不要误会你们都这样冒出来真的很酷但我还是要再说一次现在的时机真的很不合适</p>
     <p class="dave">DAVE: 我们正有事要办呢</p>
-    </div>
-    <p class="no-indent">(JOHN 1): 哎呦。对不起。</p>
-    <p class="no-indent">(JOHN 2): 呃……其实我过来只是为了偷偷把这个john传送走，然后回溯我刚才弄出来的烂摊子。</p>
-    <p class="no-indent">(JOHN 2): 我也不知道会在这里看到又一个john。</p>
-    <p class="no-indent">JOHN 3: 喂，第二个john，我说了我来处理！</p>
-    <p class="no-indent">JOHN 3: 我是唯一一个完全知道这里发生了什么的人。</p>
-    <div class="chat type-rg type-hs-small--md">
+    <p class="john">(JOHN 1): 哎呦。对不起。</p>
+    <p class="john">(JOHN 2):: 呃……其实我过来只是为了偷偷把这个john传送走，然后回溯我刚才弄出来的烂摊子。</p>
+    <p class="john">(JOHN 2):: 我也不知道会在这里看到又一个john。</p>
+    <p class="john">JOHN 3: 喂，第二个john，我说了我来处理！</p>
+    <p class="john">JOHN 3: 我是唯一一个完全知道这里发生了什么的人。</p>
     <p class="dave">DAVE: 噢他妈的，john你们到底搞了什么鬼</p>
-    </div>
-    <p class="no-indent">JOHN 3: 小dave，请你等一会儿。</p>
-    <p class="no-indent">JOHN 3: 让我先搞定这两个john再给你解释。</p>
-    <div class="chat type-rg type-hs-small--md">
+    <p class="john">JOHN 3: 小dave，请你等一会儿。</p>
+    <p class="john">JOHN 3: 让我先搞定这两个john再给你解释。</p>
     <p class="dave">DAVE: 小dave？？？</p>
     <p class="dave">DAVE: 噢</p>
     <p class="dave">DAVE: 对啊你特么怎么突然就变成大人了</p>
     <p class="dave">DAVE: 老兄你在长大之后也开始时间旅行了吗</p>
     <p class="jade">JADE: 谁来给我解释解释这他妈是怎么回事？？？？</p>
-    </div>
-    <p class="no-indent">JOHN 3: john，你们两个已经没有理由继续留在这里了。</p>
-    <p class="no-indent">JOHN 3: 我不是要故意扫兴，但你们试图推动的计划现在已经没有意义，所以直接跳转到别处去爱做什么做什么就好。</p>
-    <p class="no-indent">(JOHN 1): 嗯……</p>
-    <p class="no-indent">(JOHN 2): 没有意义？？你等等。</p>
-    <p class="no-indent">JOHN 3: 噢好吧也许我不该那么说。</p>
-    <p class="no-indent">JOHN 3: 我相信你们还是可以直接离开去做你们打算做的我原来做过的那些事……</p>
-    <div class="chat type-rg type-hs-small--md">
+    <p class="john">JOHN 3: john，你们两个已经没有理由继续留在这里了。</p>
+    <p class="john">JOHN 3: 我不是要故意扫兴，但你们试图推动的计划现在已经没有意义，所以直接跳转到别处去爱做什么做什么就好。</p>
+    <p class="john">(JOHN 1): 嗯……</p>
+    <p class="john">(JOHN 2):: 没有意义？？你等等。</p>
+    <p class="john">JOHN 3: 噢好吧也许我不该那么说。</p>
+    <p class="john">JOHN 3: 我相信你们还是可以直接离开去做你们打算做的我原来做过的那些事……</p>
     <p class="dave">DAVE: 我的天啊john</p>
-    </div>
-    <p class="no-indent">JOHN 3: 事实上那应该依然会是一段非常不虚此行的经历！</p>
-    <p class="no-indent">JOHN 3: 我的一部分最美好的记忆就发生在你们去做你们计划中下一步要做的事之后。</p>
-    <p class="no-indent">JOHN 3: 反正就是，你们就现在就出发去做就好，只要别继续留在原地。</p>
-    <p class="no-indent">JOHN 3: 我回来是为了推动一些与历史不同的新的重要事件的发生，但这些事件与你们两个都无关。</p>
-    <div class="chat type-rg type-hs-small--md">
+    <p class="john">JOHN 3: 事实上那应该依然会是一段非常不虚此行的经历！</p>
+    <p class="john">JOHN 3: 我的一部分最美好的记忆就发生在你们去做你们计划中下一步要做的事之后。</p>
+    <p class="john">JOHN 3: 反正就是，你们就现在就出发去做就好，只要别继续留在原地。</p>
+    <p class="john">JOHN 3: 我回来是为了推动一些与历史不同的新的重要事件的发生，但这些事件与你们两个都无关。</p>
     <p class="jade">JADE: :|</p>
-    </div>
-    <p class="no-indent">(JOHN 1): 哦……</p>
-    <p class="no-indent">(JOHN 2): ……好吧。</p>
+    <p class="john">(JOHN 1): 哦……</p>
+    <p class="john">(JOHN 2):: ……好吧。</p>
+        </div>
     <p class="no-indent">对你的事业没有帮助的John们传送离开了。你真诚地祝愿他们也能拥有美好而充实的青春。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="dave">DAVE: 成年john你他妈的到底干了什么</p>
@@ -17217,7 +17211,6 @@
     <p class="no-indent">Dirk不等Rose回答便挂断了电话。他扭动脖子，摘下墨镜，以便更好地欣赏日落处的火烧云——紫色与橙色在地平线上完美地交融。</p>
     <p class="no-indent">她对他的评价是正确的，他心想。他的外胚生物学女儿认为她拥有一双灵巧的艺术家之手，因而天生懂得如何施加温柔的推拉影响，但Dirk知道他自己的方式是机械化的，就像工程师那样。他的能力不包含适应与阐释。每一个元件都有其目的、有其插槽，有其连锁的机制。排除整体之后，一切元件的机能都将失去意义。</p>
     <p class="no-indent">Dirk对这场格外精明的自我反省十分满意，他惊叹地飞向天空。</p>
-    <p class="Command">&gt; ==></p>
     </div>
     <div class="o_story-nav type-hs-copy line-tight pad-x-0 pad-x-lg--md pad-b-lg">
     <div>
@@ -17276,46 +17269,35 @@
     <p class="Command">&gt; 注视你的敌人。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: ...</p>
-    </div>
     <p class="caliborn">CALIBORN: ...</p>
-    <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: ...</p>
-    </div>
     <p class="caliborn">CALIBORN: ...</p>
-    <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: ...</p>
-    </div>
     <p class="caliborn">CALIBORN: ...</p>
-    <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: ...</p>
-    </div>
     <p class="caliborn">CALIBORN: ...</p>
-    <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: ...</p>
-    </div>
     <p class="caliborn">CALIBORN: 你他妈是个什么玩意儿？</p>
+        </div>
     <p class="no-indent">你拒绝回答他的问题。相反，你有更有意义的事可做。一件既能奠定他的既定命运又能无可辩驳地展现你对他的认知的事。</p>
     <p class="Command">&gt; 给他比个朝下的大拇指。</p>
     <p class="no-indent">这是教科书级的标准点踩。甚至比教科书还要标准。标准得你真的没法传授给其他人。Lord English丢下了手中的布偶。有那么一阵，他看上去十分震惊，甚至有点害怕，但那稍纵即逝。他开始捧腹大笑。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: 呃。</p>
-    </div>
     <p class="caliborn">CALIBORN: 忘了刚才的问题吧。我知道你是谁。</p>
     <p class="caliborn">CALIBORN: 这一切已经被预言过了。在我所创造的杰作之中。那是的我还是一个小孩。</p>
-    <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: 什么？</p>
-    </div>
     <p class="caliborn">CALIBORN: 闭嘴。</p>
     <p class="caliborn">CALIBORN: 我必须让你知道你刚刚打断了一件开创性的用于诠释一切的杰作的诞生。</p>
     <p class="caliborn">CALIBORN: 这是该类别的开山之作，只上演过仅仅一次，因稀有而越发珍贵。</p>
-    <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: 哇。</p>
-    </div>
     <p class="caliborn">CALIBORN: 我让你闭嘴。在毁灭的同时插话是不道德的。</p>
     <p class="caliborn">CALIBORN: 但你不用担心。虽然你错过了我极端重要的舞蹈表演，</p>
     <p class="caliborn">CALIBORN: 而且是前所未有的天才表演，完全一点儿都不尴尬。</p>
     <p class="caliborn">CALIBORN: 现在你该参与到比那更加重要的表演中了。</p>
+        </div>
     <p class="no-indent">年轻领主的面目开始变得扭曲，从他脱臼的下颌骨中传出的笑声在空洞的空间中回响。他在残缺的邪恶独白之间放声大笑，也许他早已为这一刻的到来做好了准备。</p>
+        <div class="chat type-rg type-hs-small--md">
     <p class="caliborn">CALIBORN: 到此为止，想必已经有足够多的人见证过了我的杰作。</p>
     <p class="caliborn">CALIBORN: 它已经进入了暗网的黑色血管中的循环。</p>
     <p class="caliborn">CALIBORN: 数以千亿计的观众目睹了它的辉煌，憎恶者与傻瓜亦然。</p>
@@ -17324,7 +17306,9 @@
     <p class="caliborn">CALIBORN: 现在。时候到了。</p>
     <p class="caliborn">CALIBORN: 所有逼逼我的杰作有多杰出的人都要闭嘴。</p>
     <p class="caliborn">CALIBORN: 现在该轮到……</p>
+            </div>
     <p class="no-indent">他的狂笑化作低沉而破碎的咯咯声，声波向你突刺而来，低沉而且扭曲。他现在得意忘形，为他即将奉上的台词。</p>
+        <div class="chat type-rg type-hs-small--md">
     <p class="caliborn">CALIBORN: 你们一起来*成为*我的杰作了！</p>
     </div></div>
     <div class="o_story-nav type-hs-copy line-tight pad-x-0 pad-x-lg--md pad-b-lg">
