@@ -10848,7 +10848,7 @@
     <div class="chat type-rg type-hs-small--md">
     <p class="roxy">ROXY：好吧jane并不完美</p>
     </div>
-    <p class="no-indent dirk">Roxy 耸耸肩，用手捋过头发，她的头发最近剪得比以往更短</p>
+    <p class="no-indent dirk">Roxy 耸耸肩，用手捋过头发，她的头发最近剪得比以往更短。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="roxy">ROXY：而且我不知她会不会是好总统</p>
     <p class="roxy">ROXY：但她又不是betty crocker</p>
@@ -10861,24 +10861,26 @@
     <p class="jade">JADE：我理解</p>
     <p class="jade">JADE：CALLIOPE那你呢？</p>
     </div>
-    <p class="no-indent dirk">Calliope放下零食，把JADE的裙子撩到一边，好让自己坐下。她把一只爪子放到嘴边，做出一个复杂的表情，远超你对骷髅头骨可动能力的预期。</p>
+    <p class="no-indent dirk">Calliope放下零食，把Jade的裙子撩到一边，好让自己坐下。她把一只爪子放到嘴边，做出一个复杂的表情，远超你对骷髅头骨可动能力的预期。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="calliope">CALLIOPE：噢，我宁愿保持置身事外，谢谢</p>
     <p class="jade">JADE：:(</p>
     <p class="calliope">CALLIOPE：我觉得无论是干涉政治还是我朋友的私人恩怨都不太礼貌，而且……说实话，让我压力很大。</p>
     <p class="jade">JADE：也是</p>
-    <p class="jade">JADE：抱歉CALLIOPE我或许不应该把这些都推给你</p>
+    <p class="jade">JADE：抱歉callie我或许不应该把这些都推给你</p>
     <p class="calliope">CALLIOPE：别道歉啦，多吃点吧！</p>
-    <p class="calliope">CALLIOPE：双手一拍。是种清亮的声音。她的语气也很明亮。这么多年了，她仍然不敢相信自己有了这么多朋友。她对JADE微笑，JADE也报以微笑。这茶味道好极了。蛋糕甚至还要更棒。CALLIOPE做任何事都像个艺术家。</p>
-    <p class="jade">JADE：哇哦CALLIOPE你真是了不起！</p>
-    <p class="jade">JADE：嘿嘿ROXY你有她真是太幸运了</p>
+        </div>
+    <p class="no-indent dirk">Calliope双手一拍。是种清亮的声音。她的语气也很明亮。这么多年了，她仍然不敢相信自己有了这么多朋友。她对Jade微笑，Jade也报以微笑。这茶味道好极了。蛋糕甚至还要更棒。CALLIOPE做任何事都像个艺术家。</p>
+    <div class="chat type-rg type-hs-small--md">
+    <p class="jade">JADE：哇哦callie你真是了不起！</p>
+    <p class="jade">JADE：嘿嘿roxy你有她真是太幸运了</p>
     </div>
     <p class="no-indent dirk">Roxy 咯咯地笑了起来，有些尴尬。她轻轻用胳膊肘顶了顶JADE的肋骨，放低声音。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="roxy">ROXY：嘘—不是“她”，是“ta”</p>
     <p class="jade">JADE：噢</p>
     </div>
-    <p class="no-indent dirk">JADE紧张起来，脸色发白。她瞪大眼看向CALLIOPE ，后者仍礼貌的笑着。她意识到自己在社交上的错误是极其迟钝的，但为时已晚。</p>
+    <p class="no-indent dirk">Jade紧张起来，脸色发白。她瞪大眼看向Calliope ，后者仍礼貌的笑着。她意识到自己在社交上的错误是极其迟钝的，但为时已晚。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="jade">JADE：哦！！</p>
     </div>
@@ -10895,20 +10897,20 @@
     </div>
     <p class="no-indent dirk">Roxy停顿了一下，虽然她的语调听起来像话还没说完。接下来的话她有些结巴。</p>
     <div class="chat type-rg type-hs-small--md">
-    <p class="roxy">ROXY：我——我其实也是。</p>
+    <p class="roxy">ROXY：我——我其实也是</p>
     <p class="jade">JADE：你？？</p>
-    <p class="roxy">ROXY：噢，对啊，我们现在是个“they”的家庭。</p>
-    <p class="roxy">ROXY：打包出售那种感觉。</p>
-    <p class="roxy">ROXY：我们这儿简直是非二元得要命。</p>
+    <p class="roxy">ROXY：噢，对啊，我们现在是个“they”的家庭</p>
+    <p class="roxy">ROXY：打包出售那种感觉</p>
+    <p class="roxy">ROXY：我们这儿简直是非二元得要命</p>
     </div>
-    <p class="no-indent dirk">等等。</p>
+    <p class="no-indent dirk">等等</p>
     <p class="no-indent dirk">什么？</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="jade">JADE：真的？</p>
     <p class="roxy">ROXY：嗯。</p>
     <p class="roxy">ROXY：呃——</p>
-    <p class="roxy">ROXY：我是说，这种说法大概又蠢又糟，别告诉别人我这么说过，笑死。</p>
-    <p class="roxy">ROXY：但大致就是这么回事。</p>
+    <p class="roxy">ROXY：我是说，这种说法大概又蠢又糟，别告诉别人我这么说过，笑死</p>
+    <p class="roxy">ROXY：但大致就是这么回事</p>
     </div>
     <p class="no-indent dirk">Roxy？你认真的？</p>
     <p class="no-indent dirk">就像我说的，不可思议。</p>
@@ -10917,16 +10919,16 @@
     <p class="no-indent dirk">所以，对，我允许他们这么搞。</p>
     <p class="no-indent dirk">继续。</p>
     <div class="chat type-rg type-hs-small--md">
-    <p class="roxy">ROXY：哇，把这话说出来真爽啊，老天。</p>
-    <p class="roxy">ROXY：哈哈哈哈，这出柜方式可真够劲的。</p>
-    <p class="jade">JADE：没关系的。</p>
-    <p class="jade">JADE：我不想让你觉得不自在。</p>
-    <p class="roxy">ROXY：我知道。</p>
+    <p class="roxy">ROXY：哇，把这话说出来真爽啊，老天</p>
+    <p class="roxy">ROXY：哈哈哈哈，这出柜方式可真够劲的</p>
+    <p class="jade">JADE：没关系的</p>
+    <p class="jade">JADE：我不想让你觉得不自在</p>
+    <p class="roxy">ROXY：我知道</p>
     <p class="jade">JADE：不过我很好奇！</p>
-    <p class="jade">JADE：我是说——如果你想聊的话。</p>
+    <p class="jade">JADE：我是说——如果你想聊的话</p>
     <p class="roxy">ROXY：也许吧。</p>
-    <p class="roxy">ROXY：CALLIOPE和我最近聊了很多这个。</p>
-    <p class="roxy">ROXY：把他们外星的那一套、我人类的那一套各种包袱都掏出来摊开说。</p>
+    <p class="roxy">ROXY：callie和我最近聊了很多这个</p>
+    <p class="roxy">ROXY：把他们外星的那一套、我人类的那一套各种包袱都掏出来摊开说</p>
     <p class="roxy">ROXY：于是我就开始想——</p>
     <p class="roxy">ROXY：性别到底算什么？</p>
     <p class="roxy">ROXY：对吧，哈哈？</p>
@@ -10936,7 +10938,7 @@
     <p class="no-indent dirk">JADE注视着她交叉在腿上的双手，轻咬着嘴唇。她显然心怀忧虑，怀揣着自己的见解。我必须承认，她的顾虑是合情合理的。然而，我将不再对此发表任何意见。从现在开始，我打算避开这个话题。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="jade">JADE：所以你，呃——</p>
-    <p class="jade">JADE：不再……“搞性别”那一套了？？</p>
+    <p class="jade">JADE：不再……“搞”性别那一套了？？</p>
     <p class="roxy">ROXY：是啊，大概是吧，笑死。</p>
     <p class="roxy">ROXY：我是说，那都是我们旧宇宙里的那点玩意儿。</p>
     <p class="roxy">ROXY：我们干嘛还要把那套东西带来这里，对吧？</p>
@@ -10946,19 +10948,19 @@
     <div class="chat type-rg type-hs-small--md">
     <p class="calliope">CALLIOPE：我对性别的想法——</p>
     </div>
-    <p class="no-indent dirk">草。Ta十分注意。Ta用两只爪子夹住一块蛋糕，小心翼翼地吃了起来，ta十分注意不要让自己强大的下颚发出可怕的咬牙和咔嚓声。</p>
+    <p class="no-indent dirk">草。Ta十分注意。Ta用两只爪子夹住一块蛋糕，小心翼翼地吃了起来，Ta十分注意不要让自己强大的下颚发出可怕的咬牙和咔嚓声。</p>
     <div class="chat type-rg type-hs-small--md">
-    <p class="calliope">CALLIOPE：——呃，那完全是受我观察地球时期的影响。</p>
+    <p class="calliope">CALLIOPE：——呃，那完全是受我观察地球时期的影响</p>
     <p class="calliope">CALLIOPE：我想我之所以会把自己当作女性，大概只是因为，嗯……</p>
-    <p class="calliope">CALLIOPE：因为我哥哥对“阳刚”这件事格外认真。</p>
-    <p class="calliope">CALLIOPE：意思是说，他对“作为男性” 应当所代表的一切都变得异常热衷。</p>
-    <p class="calliope">CALLIOPE：智天使的存在是二元对立的，但方式和人类的生物性别并不一样。</p>
-    <p class="calliope">CALLIOPE：我想我们对人类文化的理解，间接影响了Alternia的发展，而那又反过来影响了你们——这是我们来到这里之后我花了很长时间思考的问题。</p>
-    <p class="calliope">CALLIOPE：这一切都太循环曲折、又太随意了。</p>
+    <p class="calliope">CALLIOPE：因为我哥哥对“男性气概”这件事格外认真</p>
+    <p class="calliope">CALLIOPE：意思是说，他对“作为男性” 应当所代表的一切都变得异常热衷</p>
+    <p class="calliope">CALLIOPE：智天使的存在是二元对立的，但方式和人类的生物性别并不一样</p>
+    <p class="calliope">CALLIOPE：我想我们对人类文化的理解，间接影响了Alternia的发展，而那又反过来影响了你们——这是我们来到这里之后我花了很长时间思考的问题</p>
+    <p class="calliope">CALLIOPE：这一切都太循环曲折、又太随意了</p>
     <p class="roxy">ROXY：对对对！</p>
     <p class="roxy">ROXY：就比如说你仔细想想……</p>
-    <p class="roxy">ROXY：地球C上关于男孩和女孩“应该”做什么的观念，有多少其实都直接出自一群蠢青少年的想象力。</p>
-    <p class="roxy">ROXY：这简直他妈的离谱透顶。</p>
+    <p class="roxy">ROXY：地球C上关于男孩和女孩“应该”做什么的观念，有多少其实都直接出自一群蠢青少年的想象</p>
+    <p class="roxy">ROXY：这简直他妈的离谱透顶</p>
     <p class="jade">JADE：没错。</p>
     </div>
     <p class="no-indent dirk">JADE若有所思地点了点头。要是她在这种话题上还显得不开明，那才叫见鬼了。</p>
@@ -10969,13 +10971,13 @@
     <p class="roxy">ROXY：我是说，我又能怎么办呢？</p>
     <p class="roxy">ROXY：结婚然后生上一百个娃？</p>
     <p class="jade">JADE：呃……不？？？</p>
-    <p class="roxy">ROXY：对啊，正是。</p>
-    <p class="roxy">ROXY：我意思是，也许我曾经想过那种事吧。</p>
-    <p class="roxy">ROXY：但我觉得那并不是我真正想要的。</p>
-    <p class="roxy">ROXY：我只是喜欢“我和dirk一起生出一些聪明又酷的小孩”这个想法。</p>
-    <p class="roxy">ROXY：因为我喜欢的是dirk这个想法。</p>
+    <p class="roxy">ROXY：对啊，正是</p>
+    <p class="roxy">ROXY：我意思是，也许我曾经想过那种事吧</p>
+    <p class="roxy">ROXY：但我觉得那并不是我真正想要的</p>
+    <p class="roxy">ROXY：我只是喜欢“我和dirk一起生出一些聪明又酷的小孩”这个想法</p>
+    <p class="roxy">ROXY：因为我喜欢的是作为一个概念的dirk</p>
     <p class="roxy">ROXY：而且当时整个星球上字面意义上除了我们没人活着。</p>
-    <p class="roxy">ROXY：不过反正我们也啥都不知道就有了俩孩子，所以算了，随便啦。</p>
+    <p class="roxy">ROXY：不过反正我们确实就有了俩孩子，所以算了，随便啦。</p>
     <p class="jade">JADE：你的孩子确实挺酷的。</p>
     <p class="roxy">ROXY：我就说吧，对不对？</p>
     <p class="jade">JADE：我个人可是他们的大粉丝！</p>
@@ -10985,7 +10987,9 @@
     <div class="chat type-rg type-hs-small--md">
     <p class="jade">JADE：我..</p>
     <p class="jade">JADE：我......</p>
-    <p class="jade">JADE：的手一松，茶杯掉在地上，摔得粉碎。</p>
+    </div>
+    <p class="no-indent dirk">Jade的手一松，茶杯掉在地上，摔得粉碎。</p>
+        <div class="chat type-rg type-hs-small--md">
     <p class="roxy">ROXY：jade?</p>
     </div>
     <p class="no-indent dirk">她猛吸一口气，突然觉得不舒服。她头晕目眩,好像发着烧，眼前还看到了不存在的东西。一道刺眼的白光，一黑色的完美圆环，在她眼中灼烧出一个洞。她试着站起来，可双腿发软，不住地颤抖撞在一起。Roxy 立刻从座位上跳起来，在她摔倒之前扶住了她。</p>
@@ -11563,7 +11567,7 @@
     <div class="row bg-white bg-light-gray--md pad-b-md pad-b-lg--md pos-r pad-t-md pad-t-0--md">
     <div class="mar-x-auto disp-bl bg-white pad-t-lg" style="max-width:650px;">
     <div class="o-story_text o_epilogue type-rg type-sm--md line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg"> <p class="no-indent dirk"><span class="opener type-hs-opener-rg type-hs-opener-sm--md">J</span>ade猛然惊醒，感觉天旋地转。</p>
-    <p class="dirk">她的身体开始颤抖，震动向四周释放出空间扭曲的波动。然而，没有什么能够吸收这些扭曲——没有空间，没有物质，什么都没有。她漂浮在虚空之中，只有纯粹、压倒一切的光。她感受到这一切，先于感觉到胸前伤口的痛楚。广袤的虚无包围着她。那曾经被称为寰宇极界的绝对深渊。</p>
+    <p class="no-indent dirk">她的身体开始颤抖，震动向四周释放出空间扭曲的波动。然而，没有什么能够吸收这些扭曲——没有空间，没有物质，什么都没有。她漂浮在虚空之中，只有纯粹、压倒一切的光。她感受到这一切，先于感觉到胸前伤口的痛楚。广袤的虚无包围着她。那曾经被称为寰宇极界的绝对深渊。</p>
     <p class="dirk">有那么一瞬间，她觉得自己像是在回忆什么。脑海中浮现出一些画面和声音，像是记忆。但那些记忆不完全属于她。像是来自别的什么人。她忆起一个年长版本的Roxy……一个面带笑容的绿色骷髅，是Roxy的……女友？还有什么关于选举的事。不，这一切完全说不通。更何况，这些记忆正在迅速流逝。它们像梦一样在她脑海中溶解，很快消散至尽，像一场大梦初醒。就这样，它们没了。</p>
     <p class="dirk">剩下的，只有属于她自己的记忆，以及她必须为之负责的危机。她的朋友们。英格利希领主。这片无尽虚空。胸前绽开的伤口。还有……</p>
     <p class="dirk"><em>还有黑洞</em>。</p>
@@ -11705,7 +11709,7 @@
     <p class="dave">DAVE:我见过kanaya熨衣服就像</p>
     <p class="dave">DAVE:老大一堆衬衫</p>
     <p class="dave">DAVE:哟kanaya</p>
-    <p class="dave">DAVE:你说是吧老姐</p>
+    <p class="dave">DAVE:你说是吧嫂子</p>
     </div>
     <p class="no-indent dirk">Kanaya以一丝抿着嘴的微笑打量他们，半是不屑半是好感。</p>
     <div class="chat type-rg type-hs-small--md">
@@ -11837,10 +11841,9 @@
     <p class="kanaya">KANAYA:后果是灾难性的</p>
     <p class="kanaya">KANAYA:他在Troll王国里因为性感美臀饱受喜爱啊</p>
     <p class="dave">DAVE:认真的？</p>
-    </div>
-    <p class="no-indent dirk">CG:我跟你说过不只是我好吧！</p>
-    <p class="no-indent dirk">GA:它里面一定有什么可怕的奥术能量</p>
-    <p class="no-indent dirk">GA:我从没见过那样的东西</p>
+    <p class="karkat">KARKAT: 我跟你说过不只是我好吧！</p>
+    <p class="kanaya">KANAYA:它里面一定有什么可怕的奥术能量</p>
+    <p class="kanaya">KANAYA:我从没见过那样的东西</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="dave">DAVE:额</p>
     <p class="dave">DAVE:她还没把他追到手</p>
@@ -12113,7 +12116,7 @@
     </div>
     <p class="no-indent dirk">你向后缩回来，对这个恶作剧并不觉得好笑。你想，这算什么？他妈的这么业余？</p>
     <div class="chat type-rg type-hs-small--md">
-    <p class="feferi">MEENAH: 你想当我的救世主可真可爱 蓝小子</p>
+    <p class="feferi">MEENAH: 你想当我的救世主可真可爱 小蓝孩</p>
     <p class="feferi">MEENAH: 但事实是你已经帮过我了</p>
     <p class="feferi">MEENAH: 从你这儿搞到了我需要的一切</p>
     <p class="feferi">MEENAH: 回头见 傻逼！ 38)</p>
@@ -12681,7 +12684,7 @@
     <p class="no-indent dirk" style="margin:15px 0"><span class="type-sm type-hs-small--md">“这项工作？” 我嗅到了一股自命不凡的味道。是不是有人需要收敛一下？我只是找点乐子而已。你他妈的听过这个说法吗，死骷髅女孩，？我想没有。这一切突然变得非常沉重。就好像你非要把本应是轻松有趣的事情闹得像个联邦案件一样。只是一群失败的成年人，试图以他们所知的最好方式，成为他们长大后本该成为的人。但不行，我想你最懂。作为一个无比古老的外星隐士，几乎没有接触过人类文化、情感或价值观。是啊，去吧，尽管接管吧。听起来没问题。</span></p>
     <p class="no-indent calliope-dead">王子发现他对叙事的掌控正从手中滑落。在地球文化中有一个关于武士刀的古老传说，说如果你将刀刃磨得像镜子一样光亮，它就能干净利落地将从空中飘落的丝巾一分为二。他对我们感知的掌控，也将被以同样优雅的方式斩断。</p>
     <p class="no-indent dirk" style="margin:15px 0 0 0"><span class="type-hs-small type-bs--md">哟，我明白你正试图编造一个与我为自己创造的符号相关且具体的比喻，我欣赏这份努力。我真心欣赏。但我绝不能袖手旁观，任由你无耻地传播关于一个我如此珍视的主题的不负责任的错误信息。</span></p>
-    <p class="dirk" style="margin:0 0 15px 0"><span class="type-hs-small type-bs--md">T武士刀是一种切割武器。静止时，它完全无害。它具有欺骗性，甚至可以这样说。大多数最危险的东西反而在静止时显得平淡无奇，这只是基本物理学。真正起作用的，是武士刀的运动——</span></p>
+    <p class="dirk" style="margin:0 0 15px 0"><span class="type-hs-small type-bs--md">武士刀是一种切割武器。静止时，它完全无害。它具有欺骗性，甚至可以这样说。大多数最危险的东西反而在静止时显得平淡无奇，这只是基本物理学。真正起作用的，实际上是武士刀的运动——</span></p>
     <p class="no-indent calliope-dead">roxy将凉布放在jade的额头上，皱起了眉头。ta担心又困惑，但决心照顾ta的朋友。</p>
     <p class="no-indent dirk" style="margin:15px 0"><span class="type-bs type-hs-bottom--md">嘿，我正忙着把你那未经证实的比喻变成具有实质性、寓言性价值的东西。如果你能——</span></p>
     <p class="no-indent calliope-dead">王子急于操纵围绕着注死jade之登升的事件，想将其导向一个对他有利的结局，却无意中暴露了几个明显的弱点。他通过只有他自己能理解的表达方式来导演他人的现实，这使他诉诸于将所有人的体验都与他自己的进行比较。他假设自己在我的视野范围内的地位将永远不会受到挑战，因此他的傲慢也没有丝毫收敛。他向所有能观察到他肆意妄为的自我满足行为的人暴露了太多自己。他的许多个人偏见和经历从文本因果关系的缝隙中泄漏出来，使它们容易被对手所利用。</p>
@@ -13028,7 +13031,7 @@
     <p class="jane">JANE： 有别人和你在一起吗？</p>
     <p class="dirk">DIRK： 我……没有。没人。我们别谈这个了，行吗？</p>
     </div>
-    <p class="no-indent calliope-dead">然而，对肉体领域的每个人来说不幸的是，王子也不是那种会忽视备用计划必要性的人。他为成功和失败都设计了应变方案。套中有套，正如他喜欢设想的那样。</p>
+    <p class="no-indent calliope-dead">然而，对有形领域的每个人来说不幸的是，王子也不是那种会忽视备用计划必要性的人。他为成功和失败都设计了应变方案。套中有套，正如他喜欢设想的那样。</p>
     <p class="no-indent calliope-dead">在他的工作坊里，王子密谋策划，而先知既被削弱也在上升。他小心翼翼地确保自己活动的确切性质模糊不清。他对所有观察关闭了自己的心智。他在工作台上散落了许多零散的零件，忙于各种具有误导性的机械任务，以向我隐藏他计谋的真实意图。</p>
     <p class="no-indent calliope-dead">但某些物件和动作在我看来比其他的更值得注意。例如，桌上那支非常长的红色步枪。一件不属于他、也已久未使用的武器。在他那些可能是障眼法的其他琐碎活动之间，他一直在反复摆弄这支步枪。他拆解它，重新组装它，滑开机匣盖检查击发装置。</p>
     <p class="no-indent calliope-dead">王子显然认为自己聪明的很。我哥哥也曾这么认为。</p>
@@ -13593,7 +13596,7 @@
     <p class="terezi">TEREZI: 这不是一种理性的情感，JOHN</p>
     <p class="terezi">TEREZI: 就像你一样！</p>
     <p class="john">JOHN: 我？</p>
-    <p class="terezi">TEREZI: 对，就是你</p>
+    <p class="terezi">TEREZI: 对，就4你</p>
     <p class="terezi">TEREZI: 你为什么还和我待在这里？</p>
     <p class="john">JOHN: 嗯……因为我不能就这样把你丢在这里等死？</p>
     <p class="terezi">TEREZI: 你对回家这个话题很少有明显的表态</p>
@@ -13604,14 +13607,14 @@
     <p class="john">JOHN: 老实说，我没想过。</p>
     <p class="terezi">TEREZI: 就4这样</p>
     <p class="terezi">TEREZI: 地球C很完美，不是吗？</p>
-    <p class="terezi">TEREZI: 但不适合你</p>
+    <p class="terezi">TEREZI: 但不4合你</p>
     <p class="terezi">TEREZI: 你感觉不到</p>
     </div>
     <p class="no-indent calliope-dead">john咽下一口厚重的气息。他提醒自己，他从未想要完美，从未要求过完美。然而，他每天都因为没能像他认为自己应该的那样享受人生而感到内疚。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: ……</p>
     <p class="john">JOHN: 你说得对。我感觉不到。</p>
-    <p class="terezi">TEREZI: 如果你这几年一直抑郁又不爱社交，我敢打赌你的朋友们很想你</p>
+    <p class="terezi">TEREZI: 如果你这几年1直1郁又不爱社交，我敢打赌你的朋友们很想你</p>
     <p class="john">JOHN: 也许吧。</p>
     <p class="john">JOHN: 但不知何故，我不觉得自己有什么可以回去的地方。</p>
     <p class="john">JOHN: 呵呵……你说得对。这不是一种理性的感觉。</p>
@@ -13628,7 +13631,7 @@
     <p class="terezi">TEREZI: 真的？</p>
     <p class="terezi">TEREZI: 呃</p>
     <p class="john">JOHN: 怎么了？</p>
-    <p class="terezi">TEREZI: 我还以为你们俩现在可能已经在一起了</p>
+    <p class="terezi">TEREZI: 我还以为你们俩现在可能已经在1了</p>
     <p class="john">JOHN: 真的吗？</p>
     <p class="john">JOHN: 为什么？</p>
     <p class="terezi">TEREZI: 没什么理由。只是个预感</p>
@@ -13642,9 +13645,9 @@
     <p class="john">JOHN: 呃！</p>
     <p class="john">JOHN: 你真是不可理喻。</p>
     <p class="terezi">TEREZI: 没错！</p>
-    <p class="terezi">TEREZI: 但你还是喜欢我</p>
+    <p class="terezi">TEREZI: 但你还4喜欢我</p>
     <p class="john">JOHN: 是……是啊。</p>
-    <p class="john">JOHN: 我其实挺想你的，你知道吗。</p>
+    <p class="john">JOHN: 我其4挺想你的，你知道吗。</p>
     <p class="john">JOHN: 比我想象中更想你。</p>
     </div>
     <p class="no-indent calliope-dead">john说完这句话后心想：她是不是只是需要有个人告诉她有人想念她？现在考虑这个问题有点晚了，但他还是想了。也许这会让她想结束这次搜寻，和他一起回家。</p>
@@ -13680,9 +13683,9 @@
     <div class="chat type-rg type-hs-small--md">
     <p class="terezi">TEREZI: 别走</p>
     <p class="terezi">TEREZI: 求你了 JOHN</p>
-    <p class="terezi">TEREZI: 再多陪我待一会儿</p>
+    <p class="terezi">TEREZI: 再多陪我待1会儿</p>
     <p class="terezi">TEREZI: 如果你现在离开我……</p>
-    <p class="terezi">TEREZI: 万一你再也无法在这个瞬间找到我了怎么办？</p>
+    <p class="terezi">TEREZI: 万1你再也无法在这个瞬间找到我了怎么办？</p>
     <p class="john">JOHN: 嗯,可是我们不能永远待在这里啊！</p>
     <p class="terezi">TEREZI: 我知道</p>
     </div>
@@ -13712,7 +13715,7 @@
     <p class="terezi">TEREZI: 别动，如果你不想真死的话</p>
     </div>
     <p class="no-indent calliope-dead">他一动不动。她的眉毛因坚定的决心而紧锁。她把一只手放在他的大腿上，把刀刃向上伸入他的衬衫下方。他颤抖着，因冰凉的金属触碰到他赤裸的胸膛而呼出一声轻笑。当凝固的、带血的布料从他皮肤上撕开时，传来一阵刺痛。</p>
-    <p class="no-indent calliope-dead">他向下看了一眼。伤口看起来比他想象的要糟糕，远不止是一个穿刺伤。一片诡异的暗色在他的胸口蔓延。伤口边缘正在结痂，周围一片淤青。他整个躯干看起来都是一片紫黄色斑驳的混乱，就像一种精致的地球奶酪。terezi的刀刃切入它，就像切奶酪一样容易。</p>
+    <p class="no-indent calliope-dead">他向下看了一眼。伤口看起来比他想象的要糟糕，远不止是一个穿刺伤。一片诡异的暗色在他的胸口蔓延。伤口边缘正在结痂，周围一片淤青。他整个躯干看起来都是一片紫黄色斑驳的混乱，就像一种精致的地球奶酪。terezi的刀刃切入它，和切奶酪一样容易。</p>
     <div class="chat type-rg type-hs-small--md">
     <p class="john">JOHN: 哦 操！</p>
     <p class="john">JOHN: 哎哟！！！！！</p>
@@ -14016,29 +14019,29 @@
     <p class="dave">DAVE: 好吧那么</p>
     <p class="dave">DAVE: 我学到的是</p>
     <p class="dave">DAVE: 搞定所有这些破事是分阶段进行的</p>
-    <p class="dave">DAVE: 比如第一阶段是你开玩笑说电视里汗津津男人站很近显得很 gay</p>
-    <p class="dave">DAVE: 第二阶段是开同样玩笑但不立刻补上"不是同"</p>
-    <p class="dave">DAVE: 第三阶段是讽刺性地撩所有男性朋友甚至不想补"不是同"因为你他妈觉醒爆了直男气概坚固无需向谁证明</p>
+    <p class="dave">DAVE: 比如第一阶段是你开玩笑说电视里汗津津男人站很近显得很gay</p>
+    <p class="dave">DAVE: 第二阶段是开同样玩笑但不立刻补上"我不是同"</p>
+    <p class="dave">DAVE: 第三阶段是讽刺性地撩所有男性朋友甚至不想补"我不是同"因为你他妈觉醒爆了直男气概坚固无需向谁证明</p>
     <p class="dave">DAVE: 或者你只是嘴上这么说</p>
     <p class="dave">DAVE: 内心开始像</p>
     <p class="dave">DAVE: 糟了</p>
-    <p class="dave">DAVE: 也许就 gay</p>
-    <p class="dave">DAVE: 第四阶段是为此惊慌把"不是同"加回所有陈述连客观直男发言都加这蠢得让所有话听起来格外 gay</p>
+    <p class="dave">DAVE: 我真是</p>
+    <p class="dave">DAVE: 第四阶段是为此惊慌把"我不是同"加回所有陈述连客观直男发言都加这蠢得让所有话听起来格外gay</p>
     <p class="dave">DAVE: 第五阶段是</p>
     <p class="dave">DAVE: 其实等下接下去几阶段是我刚描述的各种排列组合</p>
-    <p class="dave">DAVE: 开始像 gay 分形</p>
+    <p class="dave">DAVE: 开始像gay分形</p>
     <p class="dave">DAVE: 总之最终到达第九阶段左右</p>
-    <p class="dave">DAVE: 也就是每天提醒所有愿意听的人你 gay 最少六次</p>
+    <p class="dave">DAVE: 也就是每天提醒所有愿意听的人你gay最少六次</p>
     <p class="dave">DAVE: 用超逊的方式比如</p>
     <p class="dave">DAVE: 哦酷兄弟你做热口袋吗</p>
-    <p class="dave">DAVE: 给我做个 gay 热口袋</p>
-    <p class="dave">DAVE: 因为我是只消费同性屁股零食的 gay 同性恋直接由大 queer 管家送嘴里</p>
-    <p class="dave">DAVE: 用他巨大 gay 屌伺候上来</p>
-    <p class="dave">DAVE: 但这只适用于我技术上是 gay 的程度</p>
-    <p class="dave">DAVE: 我个人大概 30% 到 70%</p>
-    <p class="dave">DAVE: 所以只烹饪我 gay 热口袋的 30% 到 70%</p>
+    <p class="dave">DAVE: 给我做个gay热口袋</p>
+    <p class="dave">DAVE: 因为我是只消费同性屁股零食的gay同性恋直接由大酷儿管家送嘴里</p>
+    <p class="dave">DAVE: 用他巨大gay屌伺候上来</p>
+    <p class="dave">DAVE: 但这只适用于我技术上是gay的程度</p>
+    <p class="dave">DAVE: 我个人大概30%到70%</p>
+    <p class="dave">DAVE: 所以只烹饪我gay热口袋的30%到70%</p>
     <p class="dave">DAVE: 因为你知道直男是他妈不解冻意大利香肠的野兽</p>
-    <p class="dave">DAVE: 我得代表那 50% 仍潜伏体内的直男像在商场关门前睡着的白痴</p>
+    <p class="dave">DAVE: 我得代表那50%仍潜伏体内的直男像在商场关门前睡着的白痴</p>
     <p class="dave">DAVE: 所以现在就有这直男因某种蠢原因锁在他妈的黑暗商场里像神秘生物游荡翻美食街垃圾桶</p>
     <p class="dave">DAVE: 另外万一 jane 的对手研究组在非法窃听我顺便说我知道"双性恋"这词存在只是选择不用来服务喷他妈笑料所以大家都冷静别让这变成令人不安的字面联邦问题</p>
     <p class="dave">DAVE: 总之当一切说完做完</p>
@@ -14047,7 +14050,7 @@
     <p class="dave">DAVE: 咋</p>
     <p class="roxy">ROXY: 没事</p>
     <p class="roxy">ROXY: 我刚想问你为啥这样</p>
-    <p class="roxy">ROXY: 然后想起你一半是我一半是 dirk</p>
+    <p class="roxy">ROXY: 然后想起你一半是我一半是dirk</p>
     <p class="dave">DAVE: 是啊晚期家庭揭露真解释了一切真疯狂</p>
     <p class="roxy">ROXY: 那第十阶段是啥</p>
     <p class="dave">DAVE: 第十阶段是呃——————</p>
@@ -14557,8 +14560,8 @@
     <p class="john">JOHN: 从我被咬那刻起...我就死了。</p>
     <p class="john">JOHN: 不。</p>
     <p class="john">JOHN: 甚至更早...</p>
-    <p class="john">JOHN: 我死在那一刻……</p>
-    <p class="john">JOHN:那天早上起来那一刻。</p>
+    <p class="john">JOHN: 我死在……</p>
+    <p class="john">JOHN:那天早上起来那刻。</p>
     </div>
     <p class="no-indent dirk">嗯，有点太戏剧化了。不全然如此，John。</p>
     <p class="no-indent dirk">你是在决定去迎接命运那刻死的。如果你做了另一个选择，你本可以活下来——在某种“活着”的定义下。你甚至可能活完你永恒的生命跨度，尽管听起来很狗屎。那条生命所经历的客观现实可能会被某些更迂腐的正典考据党争议。那些在什么“算数”而什么不算数上直言不讳的诡辩家。他们知道自己是谁。但无论你在气泡里过的是什么生活，至少你还能在其中呼吸。</p>
@@ -14573,7 +14576,7 @@
     <p class="john">JOHN: 我有，呃...</p>
     <p class="john">JOHN: 遗言要说之类的。</p>
     <p class="terezi">TEREZI: 真的吗</p>
-    <p class="terezi">TEREZI: "遗言"</p>
+    <p class="terezi">TEREZI: "1言"</p>
     <p class="terezi">TEREZI: 天啊3GB3RT你真是有史以来最逊的人</p>
     <p class="terezi">TEREZI: 这不是电影你这彻头彻尾的傻瓜</p>
     <p class="terezi">TEREZI: 你要4了可甚至不让我帮你</p>
@@ -16365,7 +16368,7 @@
     <p class="karkat">KARKAT: 看吧，这就是我他妈的意思！</p>
     <p class="karkat">KARKAT: 你的成长环境里全星球就剩下两个人类。你他妈的从哪儿得来的这套评判标准！？！</p>
     <p class="karkat">KARKAT: 承认吧。你只是假装被这事恶心到，因为你们人类社会告诉你，对此表演出厌恶的样子是种美德。</p>
-    <p class="roxy">ROXY: 呃mmmmmmmmmmmm</p>
+    <p class="roxy">ROXY: emmmmmmmmmmmm</p>
     <p class="roxy">ROXY: 笑死</p>
     <p class="roxy">ROXY: 哥们</p>
     <p class="roxy">ROXY: 不是</p>
